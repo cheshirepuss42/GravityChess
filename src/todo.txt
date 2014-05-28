@@ -1,0 +1,21 @@
+﻿
+--welcome/help-screen (with pic)
+--fix game-over (center it and don't let piece disappear (probably fixed with moving it to popup-layer)
+-find/make sounds
+-add sounds
+
+-------------------------------------------------------------------------------------------------------------
+optional:
+
+--fix the way pieces look
+--implement phases (when loot and bombs start to drop,when to increase droprate)
+--add loot (x/2 points without attack)
+--add shelter (cannot be attacked by enemy)
+--add bomb (clear board, no points)
+--add other pieces as enemy piece(king,queen,bishop,rook)
+
+--make dropstrings to add a challenge
+-animate piece-capture
+--buy a piece away (also cost in the corner, if clicked, it goes away, turn passes)
+
+---------------------------------------------------------------------------------------------------------------
